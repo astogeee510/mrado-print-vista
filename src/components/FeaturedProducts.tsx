@@ -6,7 +6,7 @@ const products = [
   {
     id: 1,
     name: "Impresora Pro X1",
-    price: "€599",
+    price: "$599.990",
     category: "Impresoras",
     badge: "Nuevo",
     description: "Alta precisión y velocidad",
@@ -14,7 +14,7 @@ const products = [
   {
     id: 2,
     name: "Filamento PLA Premium",
-    price: "€24",
+    price: "$24.990",
     category: "Filamentos",
     badge: "Popular",
     description: "1kg, múltiples colores",
@@ -22,7 +22,7 @@ const products = [
   {
     id: 3,
     name: "Kit de Boquillas",
-    price: "€35",
+    price: "$35.990",
     category: "Repuestos",
     badge: null,
     description: "Set de 5 boquillas profesionales",
@@ -30,7 +30,7 @@ const products = [
   {
     id: 4,
     name: "Mesa de Impresión",
-    price: "€89",
+    price: "$89.990",
     category: "Accesorios",
     badge: "Oferta",
     description: "Superficie magnética flexible",

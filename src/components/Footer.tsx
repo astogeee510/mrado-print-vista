@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
             <h3 className="text-xl font-bold mb-4 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Print3D
+              Thunder3D
             </h3>
             <p className="text-sm opacity-80">
               Tu tienda especializada en impresión 3D
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
         
         <div className="pt-8 border-t border-background/20 text-center text-sm opacity-80">
-          <p>© 2024 Print3D. Todos los derechos reservados.</p>
+          <p>© 2024 Thunder3D. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
