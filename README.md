@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+    ⚡ Thunder 3D
 
-## Project info
+Thunder 3D es una aplicación web avanzada de visualización y exploración 3D, diseñada para ofrecer una experiencia fluida, rápida y moderna directamente desde el navegador.
+Desarrollado con React, React Router, Vite y TypeScript por Felipe Bravo y Pablo Astroza.
 
-**URL**: https://lovable.dev/projects/e4e8dc9d-3380-44fe-9c8f-2ae4d731101c
+🚀 Características principales
 
-## How can I edit this code?
+🧩 Renderizado 3D interactivo con soporte para múltiples formatos de modelos.
 
-There are several ways of editing your application.
+🧭 Navegación dinámica mediante React Router, con rutas intuitivas y estructura modular.
 
-**Use Lovable**
+⚡ Desempeño optimizado gracias al entorno de desarrollo ultrarrápido de Vite.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e4e8dc9d-3380-44fe-9c8f-2ae4d731101c) and start prompting.
+🧠 Tipado seguro y mantenible con TypeScript.
 
-Changes made via Lovable will be committed automatically to this repo.
+🎨 Interfaz moderna y adaptable a diferentes dispositivos.
 
-**Use your preferred IDE**
+💾 Gestión eficiente de estados y componentes reutilizables.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🧑‍💻 Autores
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+Felipe Bravo – Desarrollador Front-End
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Pablo Astroza – Desarrollador Front-End / Diseño e Integración 3D
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+🪪 Licencia
+Este proyecto se distribuye bajo la licencia MIT.
+Puedes usarlo, modificarlo y distribuirlo libremente con atribución a los autores originales.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🌐 Contacto
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📧 Correo: contacto@thunder3d.app (o el que corresponda)
 
-## What technologies are used for this project?
 
-This project is built with:
+💻 Repositorio: https://github.com/astogeee510/thunder3D
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+🌍 Sitio web oficial: https://thunder3d.app (opcional)
 
-Simply open [Lovable](https://lovable.dev/projects/e4e8dc9d-3380-44fe-9c8f-2ae4d731101c) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+¿Quieres que le agregue una sección de despliegue (deploy)? Por ejemplo, cómo publicarla en Vercel, Netlify o GitHub Pages según tu preferencia.
